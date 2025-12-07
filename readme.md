@@ -1,2 +1,3 @@
 #Laborataor 1 - Introducere si initiere in Git si GitHub
+#Descriere generala Laborator: Lucrarea a fost realizată cu scopul de a introduce studentul în utilizarea sistemului de control al versiunilor Git și platformei GitHub. Au fost exersate operații esențiale precum inițializarea unui repository, urmărirea modificărilor și gestionarea versiunilor prin comenzi de bază. Studentul a învățat să conecteze repository-ul local la unul remote, să sincronizeze proiectele și să gestioneze ramuri și conflicte. Prin publicarea și organizarea laboratoarelor pe GitHub, s-au consolidat competențele de colaborare și lucru structurat în proiecte software.
 ## Autor: Tudor Dontu
