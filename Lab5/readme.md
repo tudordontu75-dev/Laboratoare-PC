@@ -1,1 +1,3 @@
 #Laboratorul 5 - Utilizarea șirurilor de caractere
+#Descriere Lucrarea 5:
+Lucrarea a fost realizată cu scopul de a familiariza studentul cu procesarea și utilizarea șirurilor de caractere în limbajul C. Au fost implementate programe care rezolvă operații fundamentale asupra șirurilor, precum determinarea lungimii, copierea, concatenarea, compararea și transformarea caracterelor. De asemenea, au fost abordate probleme complexe ce includ analiza frecvenței caracterelor, eliminarea și înlocuirea aparițiilor, gestionarea spațiilor albe și sortarea cuvintelor în ordine alfabetică. Prin rezolvarea tuturor problemelor, studentul și-a consolidat abilitățile de programare și gândirea algoritmică necesară pentru lucrul eficient cu șirurile de caractere.
